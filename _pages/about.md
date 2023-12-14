@@ -12,18 +12,15 @@ Hello, I am a 2nd-year PhD student at Boston University majoring in Systems Engn
 
 I am currently working with Prof. Fairytale and Prof. Fairytale on reinforcement learning and online learning. My research interest lies in studying and devising foundational models and algorithms for decision-making problems.
 
-Besides, I am an amateur football player
-
-
 
 Publications
 ------
-Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees, under review
-<b>Yilei Chen</b>*, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis.
+Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees <br>
+<b>Yilei Chen</b>*, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis. <br>
 under review.
 
 
 Miscellaneous
 ------
-
+I am an amateur soccer player. I am also interested in poker, traveling and Metroidvania games.
 
