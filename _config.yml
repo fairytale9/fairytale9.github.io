@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "fairytale"
-  avatar           : "profile.png"
+  avatar           : "site-logo.png"
   bio              : "[Resume](http://home.ustc.edu.cn/~fairytale)"
   location         : "Boston, MA"
   employer         :
