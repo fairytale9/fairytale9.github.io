@@ -27,7 +27,7 @@ Getting started
 
 Publications
 ------
-Yilei Chen*, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis, “Provably Efficient Off-Policy
+<b>Yilei Chen</b>*, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis, “Provably Efficient Off-Policy
 Adversarial Imitation Learning with Convergence Guarantees,” under review
 
 
