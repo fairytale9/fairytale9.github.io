@@ -15,7 +15,7 @@ I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.a
 
 Publications
 ------
-[Multiple-policy Evaluation via Density Measure](https://arxiv.org/abs/2404.00195) <br>
+[Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
 arXiv pre-print. <br>
 <b>Yilei Chen</b>, Aldo Pacchiano, Yannis Paschalidis. <br>
 
