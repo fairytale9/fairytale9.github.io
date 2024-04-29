@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "fairytale"
+  name             : "Yilei Chen"
   avatar           : "site-logo.png"
   bio              : 
   location         : "Boston, MA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=LaEKhgYAAAAJ&hl=zh-CN&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : fairytale9
+  github           : "https://github.com/fairytale9"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : 
