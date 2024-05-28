@@ -17,12 +17,12 @@ Publications
 ------
 [Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
 arXiv pre-print. <br>
-<b>Yilei Chen</b>, Aldo Pacchiano, Yannis Paschalidis. <br>
+<b>Yilei Chen</b>, Aldo Pacchiano, Ioannis Ch. Paschalidis. <br>
 
 
-Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees <br>
-under review. <br>
-<b>Yilei Chen</b>*, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis. <br>
+[Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees](https://arxiv.org/abs/2405.16668) <br>
+arXiv pre-print. <br>
+<b>Yilei Chen</b>, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis. <br>
 
 
 Miscellaneous
