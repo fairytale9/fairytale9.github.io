@@ -22,7 +22,7 @@ arXiv pre-print. <br>
 
 [Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees](https://arxiv.org/abs/2405.16668) <br>
 arXiv pre-print. <br>
-<b>Yilei Chen</b>, James Queeney, Vittorio Giammarino, and Ioannis Ch. Paschalidis. <br>
+<b>Yilei Chen</b>, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis. <br>
 
 
 Miscellaneous
