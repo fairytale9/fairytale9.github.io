@@ -16,7 +16,7 @@ I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.a
 Publications
 ------
 [Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
-arXiv pre-print. <br>
+ICML 2024 Workshop: Foundations of Reinforcement Learning and Control. <br>
 <b>Yilei Chen</b>, Aldo Pacchiano, Ioannis Ch. Paschalidis. <br>
 
 
