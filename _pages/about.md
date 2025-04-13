@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yilei Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
