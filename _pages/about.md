@@ -25,6 +25,11 @@ arXiv pre-print. <br>
 <b>Yilei Chen</b>, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis. <br>
 
 
+Services
+------
+Conference reviewer: ICLR, NeurIPS, ICML
+
+
 Miscellaneous
 ------
 I am an amateur soccer player. I am also interested in hiking, poker and Soulslike games.
