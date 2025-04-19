@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a 3nd-year PhD student at Boston University majoring in Systems Engneering with Operations Research concentration. Previously, I got my bachelor's degree in physics at University of Science and Technology of China (USTC).
+Hello, I am a 3rd-year PhD student at Boston University majoring in Systems Engneering with Operations Research concentration. Previously, I got my bachelor's degree in physics at University of Science and Technology of China (USTC).
 
 I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.ai) and Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) on reinforcement learning. My research interest lies in studying and devising foundational models and algorithms for decision-making problems.
 
