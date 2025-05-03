@@ -16,13 +16,13 @@ I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.a
 Publications
 ------
 [Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
-International Conference on Machine Learning (ICML) 2025. <br>
-<b>Yilei Chen</b>, Aldo Pacchiano, Ioannis Ch. Paschalidis. <br>
+<b>Yilei Chen</b>, Aldo Pacchiano, Ioannis Ch. Paschalidis <br>
+<b>International Conference on Machine Learning (ICML), 2025</b> <br>
 
 
 [Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees](https://arxiv.org/abs/2405.16668) <br>
-arXiv pre-print. <br>
-<b>Yilei Chen</b>, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis. <br>
+<b>Yilei Chen</b>, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis <br>
+arXiv pre-print <br>
 
 
 Services
