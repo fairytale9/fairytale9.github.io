@@ -15,6 +15,11 @@ I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.a
 
 Publications
 ------
+[Enhancing Diversity in Large Language Models via Determinantal Point Processes](https://arxiv.org/abs/2509.04784) <br>
+<b>Yilei Chen</b>, Souradip Chakraborty, Lorenz Wolf, Ioannis Ch. Paschalidis, Aldo Pacchiano <br>
+arXiv pre-print <br>
+
+
 [Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
 <b>Yilei Chen</b>, Aldo Pacchiano, Ioannis Ch. Paschalidis <br>
 <b>International Conference on Machine Learning (ICML), 2025</b> <br>
@@ -27,7 +32,7 @@ arXiv pre-print <br>
 
 Services
 ------
-Conference reviewer: ICLR, NeurIPS, ICML
+Conference reviewer: ICLR, NeurIPS, ICML, AISTATS
 
 
 Miscellaneous
