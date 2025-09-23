@@ -17,7 +17,7 @@ Publications
 ------
 [Enhancing Diversity in Large Language Models via Determinantal Point Processes](https://arxiv.org/abs/2509.04784) <br>
 <b>Yilei Chen</b>, Souradip Chakraborty, Lorenz Wolf, Ioannis Ch. Paschalidis, Aldo Pacchiano <br>
-arXiv pre-print <br>
+Presented at ARLET @ NeurIPS 2025 <br>
 
 
 [Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
