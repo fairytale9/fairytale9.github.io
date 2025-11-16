@@ -15,7 +15,7 @@ I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.a
 
 Publications
 ------
-[Enhancing Diversity in Large Language Models via Determinantal Point Processes](https://arxiv.org/abs/2509.04784) <br>
+[Post-training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/abs/2509.04784) <br>
 <b>Yilei Chen</b>, Souradip Chakraborty, Lorenz Wolf, Ioannis Ch. Paschalidis, Aldo Pacchiano <br>
 Presented at ARLET @ NeurIPS 2025 <br>
 
