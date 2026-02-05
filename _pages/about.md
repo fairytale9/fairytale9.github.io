@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am a 4th-year PhD student at Boston University majoring in Systems Engneering with Operations Research concentration. Previously, I got my bachelor's degree in Physics at University of Science and Technology of China (USTC).
 
-I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.ai) and Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) on reinforcement learning. My research interest lies in studying and devising foundational models and algorithms for decision-making problems.
+I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.ai) and Prof. [Yannis Paschalidis](https://sites.bu.edu/paschalidis/people/yannis-paschalidis/) on Reinforcement Learning and Large Language Models. My research focuses on LLM reasoning, RL Post-training and AI Agents with the goal of enabling efficient, high-quality, and diverse reasoning in Large Language Models.
 
 
 Publications
