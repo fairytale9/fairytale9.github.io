@@ -19,6 +19,10 @@ Publications
 <b>Yilei Chen</b>, Souradip Chakraborty, Lorenz Wolf, Ioannis Ch. Paschalidis, Aldo Pacchiano <br>
 <b>International Conference on Learning Representations (ICLR), 2026</b> <br>
 
+[Scaling In-Context Online Learning Capability of LLMs via Cross-Episode Meta-RL](https://arxiv.org/abs/2602.04089) <br>
+Xiaofeng Lin, Sirou Zhu, <b>Yilei Chen</b>, Mingyu Chen, Hejian Sang, Ioannis Paschalidis <br>
+Zhipeng Wang, Aldo Pacchiano, Xuezhou Zhang <br>
+arXiv pre-print <br>
 
 [Multiple-policy Evaluation via Density Estimation](https://arxiv.org/abs/2404.00195) <br>
 <b>Yilei Chen</b>, Aldo Pacchiano, Ioannis Ch. Paschalidis <br>
