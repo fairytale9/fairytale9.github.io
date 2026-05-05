@@ -15,6 +15,10 @@ I am fortunately working with Prof. [Aldo Pacchiano](https://www.aldopacchiano.a
 
 Publications
 ------
+[When Less is Enough: Efficient Inference via Collaborative Reasoning](https://arxiv.org/abs/2605.01111v1) <br>
+<b>Yilei Chen</b>, Sharut Gupta, Yannis Paschalidis, Ayush Sekhari, Aldo Pacchiano <br>
+arXiv pre-print <br>
+
 [Post-training Large Language Models for Diverse High-Quality Responses](https://arxiv.org/abs/2509.04784) <br>
 <b>Yilei Chen</b>, Souradip Chakraborty, Lorenz Wolf, Ioannis Ch. Paschalidis, Aldo Pacchiano <br>
 <b>International Conference on Learning Representations (ICLR), 2026</b> <br>
