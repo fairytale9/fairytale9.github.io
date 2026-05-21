@@ -40,7 +40,7 @@ arXiv pre-print <br>
 
 Services
 ------
-Conference reviewer: ICLR, NeurIPS, ICML, AISTATS
+Conference reviewer: ICLR, NeurIPS (Top reviewer, 2025), ICML (Gold reviewer, 2026), AISTATS
 
 
 Miscellaneous
