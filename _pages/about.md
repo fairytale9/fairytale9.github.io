@@ -35,7 +35,7 @@ arXiv pre-print <br>
 
 [Provably Efficient Off-Policy Adversarial Imitation Learning with Convergence Guarantees](https://arxiv.org/abs/2405.16668) <br>
 <b>Yilei Chen</b>, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis <br>
-<b>Transactions on Machine Learning Research (TMLR), 2025</b> <br>
+<b>Transactions on Machine Learning Research (TMLR), 2026</b> <br>
 
 
 Services
